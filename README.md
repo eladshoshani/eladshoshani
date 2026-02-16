@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @eladshoshani
-- 👔 I'm currently working as a Performance Optimization Product Engineer at [Intel Granulate](https://github.com/Granulate).
-- 📫 How to reach me:
-  - 💌 Personal Email: eladshoshani11@gmail.com
+- 👔 [Linkedin](https://www.linkedin.com/in/elad-kimchi-shoshani-a99a30255/)
 
 <!---
 eladshoshani/eladshoshani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
